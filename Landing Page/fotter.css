@@ -1,0 +1,20 @@
+footer {
+    margin:0 auto;
+    color: black;
+    
+    padding:20px ;
+    box-sizing: border-box;
+}
+footer div{
+    padding:0 0 0 5px;
+}
+.center{
+    padding-top: 15px;
+   font-size: 12px;
+   text-align: center;
+}
+.containerss{
+    max-width: 80vw;
+    display: flex;
+    justify-content: space-between
+}
